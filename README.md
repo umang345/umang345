@@ -2,7 +2,7 @@
 
 ## Developer at day, Philosopher at night
 
-- 🔭 Java Geek exploring Spring, Microservices and Distributed Systems
+- 🔭 Software Developer at Siemens Healthineers
 - 🌱 Jack of all skills, master of few.
 - ☂️ Full Stack Developer
 
