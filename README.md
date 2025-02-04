@@ -76,10 +76,6 @@
 
 <br><br>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=umang345&theme=onedark)
-
-<br><br>
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umang345&theme=react-dark)
 
 <br><br>
