@@ -21,34 +21,8 @@
   
 </div> -->
 
-<div style="display: flex; justify-content: center;">
-  <!-- Globe icons for website -->
-  <a href="https://umang345.github.io/umang-agarwal-portfolio" style="text-decoration: none !important;">
-    <img src="./img/globe-light.svg" alt="website" style="max-width: 100px; margin: 0 10px;" />
-  </a>
-  <a href="https://umang345.github.io/umang-agarwal-portfolio" style="text-decoration: none !important;">
-    <img src="./img/globe-dark.svg" alt="website" style="max-width: 100px; margin: 0 10px;" />
-  </a>
-
-  <!-- Twitter icons -->
-  <a href="https://twitter.com/agarwalumang345" style="text-decoration: none !important;">
-    <img src="./img/twitter-light.svg" alt="twitter" style="max-width: 100px; margin: 0 10px;" />
-  </a>
-  <a href="https://twitter.com/agarwalumang345" style="text-decoration: none !important;">
-    <img src="./img/twitter-dark.svg" alt="twitter" style="max-width: 100px; margin: 0 10px;" />
-  </a>
-
-  <!-- LinkedIn icons -->
-  <a href="https://www.linkedin.com/in/umangagarwal345" style="text-decoration: none !important;">
-    <img src="./img/linkedin-light.svg" alt="linkedin" style="max-width: 100px; margin: 0 10px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/umangagarwal345" style="text-decoration: none !important;">
-    <img src="./img/linkedin-dark.svg" alt="linkedin" style="max-width: 100px; margin: 0 10px;" />
-  </a>
-</div>
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/umangagarwal345/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/agarwalumang345/)
 
 
 ### Languages and Tools:
